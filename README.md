@@ -1,6 +1,6 @@
 # PoC of using AWS Cognito with IDP
 
-Repository used in the following video blog: TBD
+Repository used in the following video blog: https://youtu.be/s5VTyRYXMJI
 
 ## How to update the Lambda
 
